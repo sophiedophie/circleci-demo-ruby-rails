@@ -16,7 +16,7 @@ references:
     environment:
       POSTGRES_USER: circleci-demo-ruby
       POSTGRES_DB: rails_blog_test
-      POSTGRES_PASSWORD: ""
+      POSTGRES_PASSWORD: "ddd"
 
 jobs:
   build:
